@@ -1,3 +1,1 @@
-# References
-
-* octocat 1 😈
+Here i added my new file, this will resolve conflicts.
