@@ -1,1 +1,1 @@
-Here i added my new file, this may be create conflicts.
+Here i added my new file, this will resolve conflicts.
